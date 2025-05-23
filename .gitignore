@@ -1,0 +1,64 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+TestResults/
+out/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Microsoft Azure
+*.azurePubxml
+*.pubxml
+*.publishproj
+PublishProfiles/
+
+# ASP.NET
+App_Data/
+AppInsights.config
+appsettings.*.json
+
+# Entity Framework
+*.dbmdl
+*.bak
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Other IDE / editor stuff
+*.swp
+*~
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Git merge/patch files
+*.orig
+*.rej
